@@ -1,7 +1,5 @@
 ### Hi 👋
 
-https://vladimirfokow.github.io
-
 
 
 
