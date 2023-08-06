@@ -1,7 +1,6 @@
 ### Hi 👋
 
-This is me on stackoverflow :) https://stackoverflow.com/users/14627505/vladimir-fokow
-
+I have some reputation on Stackoverflow: https://stackoverflow.com/users/14627505/vladimir-fokow
 
 <!--
 **VladimirFokow/VladimirFokow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
